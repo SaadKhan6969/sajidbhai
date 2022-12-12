@@ -1,0 +1,71 @@
+.red{
+    color: black;background-color: rgba(0, 0, 100, 0.1);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.sup{
+    color: orange ;
+    font-family: fantasy;
+    font-size: 400%;
+    font-weight: bold;
+    font-style: italic;
+    text-transform: capitalize;
+    text-align: center;
+    text-shadow: 4px 4px 1px black;
+    text-decoration: underline;
+    line-height: 2em;
+    letter-spacing: 1em;
+}
+.gt{
+    color: darkblue;
+    font-family: fantasy;
+    font-size: 400%;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    text-transform: capitalize;
+    text-shadow: 3px 3px 1px orange;
+    text-align: center ;
+    line-height: 2em;
+    letter-spacing: 1em;    
+}
+.sk{
+    color: darkgray;
+    font-family: fantasy;
+    font-size: 400%;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    text-transform: capitalize;
+    text-align: center;
+    text-shadow: 2px 2px 1  blue;
+    line-height: 2em;
+    letter-spacing: 1em;
+
+}
+.rx{
+    color: red;
+    font-family: fantasy;
+    font-size: 500%;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: capitalize;
+    text-shadow: 6px 6px 2 brown;
+    line-height: 2em;
+    letter-spacing: 3em;
+}
+.mus{
+    color: maroon;
+    font-family: fantasy;
+    font-size: 400%;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: capitalize;
+    text-shadow: 3px 3px 2 red;
+    line-height: 2em;
+    letter-spacing: 1em;
+
+}
